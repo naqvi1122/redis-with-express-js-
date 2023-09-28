@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\baqar project\\project1 sample\\mern_project_sample-\\logs\\.ba5eec523578800013713c929b5bf78aa2855a84-audit.json",
+    "files": [
+        {
+            "date": 1695208626944,
+            "name": "E:\\baqar project\\project1 sample\\mern_project_sample-\\logs\\app-debug-2023-09-20.log",
+            "hash": "1d7ea9a1d04bbcdc10b0b9dff2bf52b7be2682803e9130fda2cb9ee4a93387ca"
+        },
+        {
+            "date": 1695283246644,
+            "name": "E:\\baqar project\\project1 sample\\mern_project_sample-\\logs\\app-debug-2023-09-21.log",
+            "hash": "f9634b0d65b806f3744f4d734b15f3048d5a5a78e6839c7e0acf464212822876"
+        },
+        {
+            "date": 1695374283483,
+            "name": "E:\\baqar project\\project1 sample\\mern_project_sample-\\logs\\app-debug-2023-09-22.log",
+            "hash": "06bcad55f04d28d3d314c043e9e8341e0bc611ecaafba7c12c13987481cc4b2d"
+        }
+    ],
+    "hashType": "sha256"
+}
